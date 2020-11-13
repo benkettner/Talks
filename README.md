@@ -8,4 +8,4 @@ This repository will contain the slides of some of the presentations I give.
 * 2020/10/03 Dataminds Connect [slides](https://github.com/benkettner/Talks/tree/main/2020/2020-10-13_Dataminds_Connect)
 * 2020/10/23 DBCC International [slides](https://github.com/benkettner/Talks/tree/main/2020/2020-10-23_DBCC_International)
 * 2020/10/29 Microsoft Data & AI Meetup Berlin [slides](https://github.com/benkettner/Talks/tree/main/2020/2020-10-29_Microsoft_Data_and_AI_Meetup)
-* 2020/11/03 Microsoft AI and ML Meetup [slides](C:\Users\benjamin.kettner\Source\Repos\Talks\2020\2020-11-03_Microsoft_AI_and_ML_Meetup)
+* 2020/11/03 Microsoft AI and ML Meetup [slides](https://github.com/benkettner/Talks/tree/main/2020/2020-11-03_Microsoft_AI_and_ML_Meetup)
