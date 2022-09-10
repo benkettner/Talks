@@ -6,6 +6,7 @@ This repository will contain the slides of some of the presentations I give.
 
 | Date | Event | Topic | | |
 |------|-------|-------|-|-|
+|2022/09/10|Data Saturday Oslo|ADF ♡ Bicep (Joint talk with Alpa)|[bicep code and slides](https://github.com/benkettner/Talks/tree/main/2022/2022-09-10_DataSaturday_Oslo)| |
 |2021/09/14|DPS 2021|Talk on serverless data handling|[demo code](https://github.com/benkettner/Talks/tree/main/2021/2021-09-14_DPS2021)| |
 |2020/10/29|Microsoft Data & AI Meetup Berlin|Automatically running Jupyter Notebooks|[slides](https://github.com/benkettner/Talks/tree/main/2020/)|[youtube (german)](https://www.youtube.com/watch?v=3cZCBWsk76w)|
 |2020/10/23|DBCC International|Azure Functions and ADF|[slides](https://github.com/benkettner/Talks/tree/main/2020/2020-10-23_DBCC_International)|[youtube](https://www.youtube.com/watch?v=-GIuNbBH_eM)|
